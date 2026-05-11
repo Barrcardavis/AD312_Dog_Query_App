@@ -28,8 +28,8 @@ Selecting a breed triggers a second query to:
 https://dogapi.dog/api/v2/breeds/{id}
 
 ✔ Clean two‑column UI
-Left: Breed list
 
+Left: Breed list
 Right: Details panel
 
 ✔ Fallback text for missing fields
