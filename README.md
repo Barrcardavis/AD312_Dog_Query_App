@@ -74,7 +74,6 @@ npm run dev
 Vite will show a local URL such as:
 http://localhost:5173
 
-✅ ADD THIS SECTION TO YOUR README.md
 🧪 Test Cases
 This project includes six total test cases as required by the AD312 assignment:
 three normal test cases and three edge test cases.
