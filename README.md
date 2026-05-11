@@ -18,6 +18,7 @@ Clean UI layout with a two‑column design
 The app loads a list of dog breeds, allows the user to select one, and displays detailed information about the selected breed.
 
 🐶 Features
+
 ✔ Fetch all dog breeds
 Uses TanStack Query to load the full breed list from:
 https://dogapi.dog/api/v2/breeds
